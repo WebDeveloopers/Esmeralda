@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.contenedor{
+    background-color: #7098e9;
+    height: 50vh;
+    margin: 10%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulario{
+    font-size: 20px;
+    color: #000;
+
+}
