@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Aretes 1',
       slug: 'arete1',
       category: 'Aretes',
@@ -9,10 +10,11 @@ const data = {
       countInStock: 10,
       brand: '101010',
       rating: 2.6,
-      numReviews: 100,
+      numReviews: 2,
       description: 'Candongas en oro amarillo de 18 Kilates, Franjas',
     },
     {
+      _id: '2',
       name: 'Pulsera 2',
       slug: 'pulsera2',
       category: 'Pulseras',
@@ -26,6 +28,7 @@ const data = {
         'Pulsera en oro amarillo de 18 Kilates, 20 cm. de largo, 6 mm. de ancho, con terminado en Oro',
     },
     {
+      _id: '3',
       name: 'Anillo 3',
       slug: 'Anillo 3',
       category: 'Anillos',
@@ -39,6 +42,7 @@ const data = {
         'Anillo en oro blanco de 18 Kilates, con zafiro central de 1.00 Ct y decoración en diamantes de 0.52 Ct',
     },
     {
+      _id: '4',
       name: 'Anillo 6',
       slug: 'Anillo 6',
       category: 'Anillos',
