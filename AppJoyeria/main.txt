@@ -1,0 +1,12 @@
+Instalar mongon en backend
+$ npm install mongoose --save
+Instalar donten en backend
+$ npm install dotenv
+Instalar bcryptjs en backend
+$ npm i bcryptjs
+Instalar express-async-handler en backend
+$ npm install express-async-handler
+Instalar jsonwebtoken en backend
+$ npm install jsonwebtoken
+Instalar react-toastify en frontend
+$ npm i react-toastify
