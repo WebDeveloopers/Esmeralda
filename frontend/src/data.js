@@ -1,0 +1,53 @@
+const data = {
+    products: [
+      {
+        name: 'Aretes dorados',
+        slug: 'aretes-dorados',
+        category: 'Gold',
+        image: '/images/1.png', // 679px × 829px el video, nosotros 732*732
+        price: 120,
+        countInStock: 10,
+        brand: 'Emerald',
+        rating: 4.5,
+        numReviews: 10,
+        description: 'high quality earrings',
+      },
+      {
+        name: 'Purple eclipse',
+        slug: 'Purple-eclipse',
+        category: 'Plate',
+        image: '/images/2.png',
+        price: 250,
+        countInStock: 20,
+        brand: 'Pulse',
+        rating: 4.0,
+        numReviews: 10,
+        description: 'high quality product',
+      },
+      {
+        name: 'YESRING',
+        slug: 'yesring',
+        category: 'Gold',
+        image: '/images/3.png',
+        price: 25,
+        countInStock: 15,
+        brand: 'Nike',
+        rating: 4.5,
+        numReviews: 14,
+        description: 'high quality product',
+      },
+      {
+        name: 'Bracelet',
+        slug: 'Bracelet',
+        category: 'Gold',
+        image: '/images/4.png',
+        price: 65,
+        countInStock: 5,
+        brand: 'Bracelet',
+        rating: 4.5,
+        numReviews: 10,
+        description: 'high quality bracelet',
+      },
+    ],
+  };
+  export default data;

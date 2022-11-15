@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.site-container {
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+.btn-primary {
+  background-color: #b3efb2;
+  color: #000000;
+}
+
+.rating span {
+  color: #e8f1f2;
+}
+
+.products {
+  display: flex; /*to put items next to each other*/
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product {
+  border: 1px #e8f1f2 solid;
+  margin: 0.5rem;
+}
+.product img {
+  width: 100%;
+  max-width: 300px;
+}
+.product-info {
+  padding: 1rem;
+}
