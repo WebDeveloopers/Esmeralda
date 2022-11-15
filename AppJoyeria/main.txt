@@ -10,3 +10,5 @@ Instalar jsonwebtoken en backend
 $ npm install jsonwebtoken
 Instalar react-toastify en frontend
 $ npm i react-toastify
+Instalar @paypal/react-paypal-js en frontend
+npm install @paypal/react-paypal-js

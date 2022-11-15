@@ -169,6 +169,16 @@ Footer
 
 footer {
   grid-area: footer;
-  background-color: #203040;
+  background-color: #0d6efd;
   color: #ffffff;
+}
+
+/*check*/
+.checkout-steps > div {
+  border-bottom: 0.2rem solid #a0a0a0;
+  color: #a0a0a0;
+}
+.checkout-steps > div.active {
+  border-bottom: 0.2rem solid #5b42f3;
+  color: #5b42f3;
 }
